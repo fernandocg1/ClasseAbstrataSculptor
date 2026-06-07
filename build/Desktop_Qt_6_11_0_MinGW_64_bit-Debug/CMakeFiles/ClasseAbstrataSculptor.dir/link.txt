@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\ClasseAbstrataSculptor.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\ClasseAbstrataSculptor.dir/objects.a @CMakeFiles\ClasseAbstrataSculptor.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ClasseAbstrataSculptor.dir/objects.a -Wl,--no-whole-archive -o ClasseAbstrataSculptor.exe -Wl,--out-implib,libClasseAbstrataSculptor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ClasseAbstrataSculptor.dir\linkLibs.rsp
