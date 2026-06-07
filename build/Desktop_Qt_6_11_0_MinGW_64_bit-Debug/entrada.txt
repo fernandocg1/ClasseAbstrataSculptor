@@ -20,7 +20,7 @@ putBox 15 25 0 1 20 30 1.0 1.0 1.0 1.0
 putBox 16 35 0 1 20 30 1.0 1.0 1.0 1.0
 
 # cabeça
-putEllipsoid 25 48 25 8 10 8 1.0 1.0 1.0 1.0
+putEllipsoid 25 48 25 8 9 8 1.0 1.0 1.0 1.0
 
 # bone e corda
 putBox 17 33 54 57 17 33 0.0 0.0 0.0 1.0

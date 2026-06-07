@@ -150,19 +150,4 @@ CMakeFiles/ClasseAbstrataSculptor.dir/main.cpp.obj: \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
- C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
- C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
- C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
- C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
- C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
- C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc \
- C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
- C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
- C:\Users\fcgad\OneDrive\Documentos\ClasseAbstrataSculptor\putVoxel.h \
- C:\Users\fcgad\OneDrive\Documentos\ClasseAbstrataSculptor\cutVoxel.h \
- C:\Users\fcgad\OneDrive\Documentos\ClasseAbstrataSculptor\putBox.h \
- C:\Users\fcgad\OneDrive\Documentos\ClasseAbstrataSculptor\cutBox.h \
- C:\Users\fcgad\OneDrive\Documentos\ClasseAbstrataSculptor\putSphere.h \
- C:\Users\fcgad\OneDrive\Documentos\ClasseAbstrataSculptor\cutSphere.h \
- C:\Users\fcgad\OneDrive\Documentos\ClasseAbstrataSculptor\putEllipsoid.h \
- C:\Users\fcgad\OneDrive\Documentos\ClasseAbstrataSculptor\cutEllipsoid.h
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc

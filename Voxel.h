@@ -1,5 +1,5 @@
 #ifndef VOXEL_H
-#define VOXEL_H //  Agora está tudo junto: VOXEL_H
+#define VOXEL_H
 
 struct Voxel {
     float r, g, b;  // Cores

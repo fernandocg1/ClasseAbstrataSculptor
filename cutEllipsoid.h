@@ -12,7 +12,6 @@ public:
 
     ~cutEllipsoid() {};
 
-    // Método que varre a região do elipsoide e apaga os voxels
     void draw(Sculptor &t) override;
 };
 

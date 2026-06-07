@@ -1,0 +1,4 @@
+echo build/ > .gitignore
+echo *.exe >> .gitignore
+echo *.off >> .gitignore
+echo CMakeLists.txt.user >> .gitignore

@@ -1,16 +1,7 @@
 #include "LeitorArquivos.h"
 #include <iostream>
+#include <cstdlib>
 #include "Sculptor.h"
-#include <fstream>
-#include <sstream>
-#include "putVoxel.h"
-#include "cutVoxel.h"
-#include "putBox.h"
-#include "cutBox.h"
-#include "putSphere.h"
-#include "cutSphere.h"
-#include "putEllipsoid.h"
-#include "cutEllipsoid.h"
 
 
 int main(){
@@ -33,6 +24,9 @@ int main(){
 
     delete t1;
 
+    std::cout << "Abrindo no meshlab..." << std::endl;
+
+    system("start Desenho.off");
 
     return 0;
 }

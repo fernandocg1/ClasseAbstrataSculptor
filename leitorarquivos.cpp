@@ -26,7 +26,6 @@
     }
 
     while(getline(entrada, s)){
-        // Se a linha for vazia ou começar com comentário '#', pula para a próxima
         if(s.empty() || s[0] == '#') {
             continue;
         }
@@ -69,7 +68,7 @@
             figs.push_back(new cutSphere(xc, yc, zc, rad));
         }
         else if(token.compare("putEllipsoid") == 0){
-            int xc, yc, zc, rx, ry, rz; // Corrigido tipo de r,g,b,a que usam variáveis da classe
+            int xc, yc, zc, rx, ry, rz;
             ss >> xc >> yc >> zc >> rx >> ry >> rz >> r >> g >> b >> a;
             figs.push_back(new putEllipsoid(xc, yc, zc, rx, ry, rz, r,g,b,a));
         }
@@ -79,8 +78,6 @@
             figs.push_back(new cutEllipsoid(xc, yc, zc, rx, ry, rz));
         }
     }
-
-    //  AGORA SIM: Fecha o arquivo e retorna só depois de ler TODAS as linhas!
     entrada.close();
     return (figs);
 }
