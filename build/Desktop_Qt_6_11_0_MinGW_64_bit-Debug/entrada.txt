@@ -62,3 +62,12 @@ putSphere 41 20 32 3 0.0 0.0 1.0 1.0
 putSphere 41 20 18 3 0.0 0.0 1.0 1.0
 putBox 39 43 18 22 32 32 1.0 1.0 0.0 1.0
 putBox 39 43 18 22 18 18 1.0 1.0 0.0 1.0
+cutVoxel 39 18 32
+cutVoxel 39 22 32
+cutVoxel 43 18 32
+cutVoxel 43 22 32
+cutVoxel 39 18 18
+cutVoxel 39 22 18
+cutVoxel 43 18 18
+cutVoxel 43 22 18
+cutBox 39 43 18 22 16 15
