@@ -9,7 +9,6 @@ class putVoxel : public FiguraGeometrica {
 public:
     putVoxel(int x, int y, int z, float r, float g, float b, float a);
 
-    // Destrutor
     ~putVoxel() {};
 
     void draw(Sculptor &t) override;
